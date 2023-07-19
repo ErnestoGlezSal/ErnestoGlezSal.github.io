@@ -184,6 +184,10 @@ margin-top: 20px;
 padding-bottom: 0;
 height: 140px;
 }
+.atajo{
+  text-decoration: none;
+  color: #000;
+}
 
 .video{
   margin: auto 0;
